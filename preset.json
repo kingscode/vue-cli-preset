@@ -1,0 +1,31 @@
+{
+    "useConfigFiles": true,
+    "plugins": {
+        "@vue/cli-plugin-babel": {},
+        "@vue/cli-plugin-pwa": {},
+        "@vue/cli-plugin-eslint": {
+            "config": "base",
+            "lintOn": [
+                "save"
+            ]
+        },
+        "vue-cli-plugin-vuetify": {
+            "preset": "configure",
+            "replaceComponents": false,
+            "useTheme": false,
+            "useCustomProperties": true,
+            "iconFont": "fa",
+            "installFonts": false,
+            "useAlaCarte": false,
+            "usePolyfill": true,
+            "locale": "nl"
+        },
+        "@kingscode/vue-cli-plugin-kingscode-scaffold": {
+            "prompts": true
+        }
+    },
+    "router": true,
+    "routerHistoryMode": true,
+    "vuex": true,
+    "cssPreprocessor": "node-sass"
+}
