@@ -20,7 +20,7 @@
             "usePolyfill": true,
             "locale": "nl"
         },
-        "@kingscode/vue-cli-plugin-kingscode-scaffold": {
+        "vue-cli-plugin-kingscode-scaffold": {
             "prompts": true
         }
     },
