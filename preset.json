@@ -22,6 +22,7 @@
             "locale": "nl"
         },
         "vue-cli-plugin-kingscode-scaffold": {
+            "version": "0.2.0",
             "prompts": true
         }
     },
