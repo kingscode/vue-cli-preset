@@ -27,5 +27,5 @@
     "router": true,
     "routerHistoryMode": true,
     "vuex": true,
-    "cssPreprocessor": "node-sass"
+    "cssPreprocessor": "sass"
 }
