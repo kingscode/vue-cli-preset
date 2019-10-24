@@ -16,7 +16,7 @@
             "useCustomProperties": true,
             "iconFont": "fa",
             "installFonts": false,
-            "useAlaCarte": false,
+            "useAlaCarte": true,
             "usePolyfill": true,
             "locale": "nl"
         },
